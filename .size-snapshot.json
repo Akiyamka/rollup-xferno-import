@@ -1,0 +1,7 @@
+{
+  "bundle.js": {
+    "bundled": 65,
+    "minified": 54,
+    "gzipped": 74
+  }
+}
